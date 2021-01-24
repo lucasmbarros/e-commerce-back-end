@@ -1,0 +1,27 @@
+{
+  "name": "e-commerce-back-end",
+  "version": "1.0.0",
+  "description": "A back-end code with configured routes for front-end use",
+  "main": "server.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasmbarros/e-commerce-back-end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasmbarros/e-commerce-back-end/issues"
+  },
+  "homepage": "https://github.com/lucasmbarros/e-commerce-back-end#readme"
+}
