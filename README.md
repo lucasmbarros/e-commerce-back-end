@@ -17,7 +17,7 @@ A back-end code with configured routes for front-end use
 
 Install Node.js
 
-    npm install sequelize mysql2 dotenv
+    npm i
 
 ## Usage
 
@@ -25,7 +25,7 @@ A back end for e-commerce websites that uses the latest technologies
 
 ## Demonstration
 
-    pending
+    https://drive.google.com/file/d/14RJCNbgK5cv_dJe1BXzP2OaflDmGKZFJ/view
 
 ## Credits
 
